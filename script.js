@@ -46,5 +46,5 @@ document
     }
 });
 
-weather.fetchWeather("Newtown");
+weather.fetchWeather("Kolkata");
   
